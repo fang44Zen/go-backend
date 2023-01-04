@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fang44Zen/go-backend/issues"
   },
-  "homepage": "https://github.com/fang44Zen/go-backend#readme"
+  "homepage": "https://github.com/fang44Zen/go-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
